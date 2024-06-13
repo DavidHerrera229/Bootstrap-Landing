@@ -1,0 +1,48 @@
+.hero {
+    background-image: url("Assets/heroImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome {
+    margin-top: 80px;
+}
+
+.sub {
+    margin-top: 80px;
+}
+
+.cta {
+    margin-top: 80px;
+}
+
+/*.cards {
+    width: 1000px;
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 150px;
+    padding: 10px;
+}*/
+
+#inputOne {
+    width: 200px;
+}
+
+.borderless {
+    border-top: 0 none;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero {
+    align-items: center;
+    justify-content: center;
+}
